@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, I'm Eoin.  I'm friendly, say 👋
 
 <!--
 **uglyeoin/uglyeoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my self.  But also my company, and trying to find time to add to @joomla where possible.
 - 🌱 I’m currently learning ... new PHP and JavaScript.
