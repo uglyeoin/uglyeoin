@@ -2,7 +2,7 @@
 
 <!--
 **uglyeoin/uglyeoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my self.  But also my company, and trying to find time to add to @joomla where possible.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... You can reach me via the website www.squareballoon.co.uk
 - 😄 Pronouns: ... he/him but will answer to most things.
 - ⚡ Fun fact: ... I'm Batman
--->
+
