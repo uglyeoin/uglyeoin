@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with ... Being a better programmer.
 - 💬 Ask me about ... Anything you want.  But probably ask me how much of an expert I am before you trust my answer.
 - 📫 How to reach me: ... You can reach me via the website www.squareballoon.co.uk
-- 😄 Pronouns: ... he/him but will answer to most things.
+- 😄 Pronouns: ... he/him/oi/influencer but will answer to most things.
 - ⚡ Fun fact: ... I'm Batman
 
